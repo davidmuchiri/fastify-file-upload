@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "fastify": "^2.7.1",
-    "form-data": "^2.5.0",
+    "form-data": "^3.0.0",
     "pump": "^3.0.0",
     "tap": "^14.6.1"
   }
